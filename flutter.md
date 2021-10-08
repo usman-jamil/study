@@ -15,11 +15,3 @@ Flutter represents the leading edge in the pursuit to create cross-platform mobi
 
 ## Debugging, Testing, and Publishing a Flutter App   [![Course Link](images/courselink.png)](https://app.pluralsight.com/library/courses/debugging-testing-publishing-flutter-app)
 This course teaches you how to debug and handle errors in Flutter and Dart correctly, capture them to a reporting system, write unit and integration tests to ensure your app's quality, and deploy your Flutter app to Android, iOS, and the web quickly.
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
