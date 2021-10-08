@@ -19,4 +19,7 @@ This course teaches you how to debug and handle errors in Flutter and Dart corre
 ```mermaid
 graph TD;
     A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
